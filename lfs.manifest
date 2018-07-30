@@ -2,6 +2,6 @@
 author    = Roberto Ierusalimschy, André Carregal and Tomás Guisasola (part of Kepler Project)
 date      = 2018/04/15
 version   = 1.7.0
-linux     = arm:linux/arm/clibs/lfs.so|x64:linux/x64/clibs/lfs.so
+linux     = x64:linux/x64/clibs/lfs.so|arm:linux/arm/clibs/lfs.so
 source    = https://keplerproject.github.io/luafilesystem/
 mantainer = lide team
